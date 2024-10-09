@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,java
 
@@ -68,6 +69,8 @@ local.properties
 .sts4-cache/
 
 ### Java ###
+=======
+>>>>>>> 56cbe798620737e79097d11f7de1d504217df938
 # Compiled class file
 *.class
 
@@ -92,6 +95,7 @@ local.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -120,3 +124,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
+=======
+>>>>>>> 56cbe798620737e79097d11f7de1d504217df938
